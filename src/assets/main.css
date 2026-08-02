@@ -1,0 +1,19 @@
+body {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  background-color: #fdfbf7;
+  color: #1f1f1f;
+}
+
+h1, h2, h3, .font-serif {
+  font-family: 'Playfair Display', serif !important;
+}
+
+/* Tira o UPPERCASE automático dos botões do Vuetify se preferir igual ao React */
+.v-btn {
+  text-transform: none !important;
+  letter-spacing: normal !important;
+}
+
+html {
+  scroll-behavior: smooth;
+}
