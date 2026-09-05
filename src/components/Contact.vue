@@ -16,38 +16,28 @@
               </p>
 
               <div class="d-flex align-center ga-4 mb-6">
-                <v-avatar color="white-opacity" size="48">
-                  <v-icon icon="mdi-phone" color="primary" size="20" />
+                <v-avatar color="white-opacity" size="40">
+                  <v-icon icon="mdi-phone" color="primary" size="25" />
                 </v-avatar>
                 <div>
                   <div class="text-caption text-uppercase text-white-40">Telefone / WhatsApp</div>
-                  <div class="text-h6 font-weight-regular">(11) 94859-6834</div>
+                  <div class="text-h7 font-weight-regular">(11) 94859-6834</div>
                 </div>
               </div>
 
               <div class="d-flex align-center ga-4 mb-6">
-                <v-avatar color="white-opacity" size="48">
-                  <v-icon icon="mdi-email" color="primary" size="20" />
+                <v-avatar color="white-opacity" size="40">
+                  <v-icon icon="mdi-email" color="primary" size="25" />
                 </v-avatar>
                 <div>
                   <div class="text-caption text-uppercase text-white-40">E-mail</div>
-                  <div class="text-h6 font-weight-regular">contato@sollemnisspa.com.br</div>
-                </div>
-              </div>
-
-              <div class="d-flex align-center ga-4 mb-8">
-                <v-avatar color="white-opacity" size="48">
-                  <v-icon icon="mdi-map-marker" color="primary" size="20" />
-                </v-avatar>
-                <div>
-                  <div class="text-caption text-uppercase text-white-40">Endereço</div>
-                  <div class="text-h6 font-weight-regular">Av. Paulista, 1000 - São Paulo, SP</div>
+                  <div class="text-h7 font-weight-regular">contato@sollemnisspa.com.br</div>
                 </div>
               </div>
 
               <div class="d-flex ga-4">
-                <v-btn icon="mdi-instagram" variant="outlined" color="white-opacity" size="small" />
-                <v-btn icon="mdi-whatsapp" variant="outlined" color="white-opacity" size="small" />
+                <v-btn icon="mdi-instagram" variant="outlined" color="white-opacity" size="small" href="https://www.instagram.com/sollemnis_spa/" target="_blank" />
+                <v-btn icon="mdi-whatsapp" variant="outlined" color="white-opacity" size="small" href="https://wa.me/5511948596834" target="_blank" />
               </div>
             </v-col>
 
