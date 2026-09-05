@@ -1,5 +1,5 @@
 <template>
-  <section id="home" class="min-vh-100 d-flex align-center justify-center position-relative pt-16">
+  <section id="home" class="min-vh-100 d-flex align-center justify-center position-relative pt-16 overflow-x-hidden">
     <!-- Círculos decorativos translúcidos do fundo -->
     <div class="blur-circle top-left" />
     <div class="blur-circle bottom-right" />
@@ -10,7 +10,7 @@
         <v-col cols="12" class="d-flex justify-center mb-6">
           <div class="logo-wrapper pa-3 rounded-circle border-pink">
             <!-- Reduzimos de 220 para 160px para bater com a resolução nativa -->
-            <v-avatar size="160" class="elevation-2 bg-white">
+            <v-avatar size="160" class="elevation-0 bg-white">
               <!-- 'contain' garante que a imagem não seja esticada/pixelada -->
               <v-img :src="logoImg" alt="Sollemnis Spa Logo" contain />
             </v-avatar>
@@ -44,7 +44,7 @@
 
 <script setup>
 // Importa o logo local da pasta assets
-import logoImg from '../assets/logo.jpg';
+import logoImg from '../assets/logo_limpo.png';
 </script>
 
 <style scoped>
