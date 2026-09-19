@@ -18,7 +18,7 @@
               </span>
               <h2 class="text-h3 font-weight-regular mb-6">
                 Cuidando do seu corpo, <br />
-                <span class="font-italic">acolhendo sua alma.</span>
+                <span >acolhendo sua alma.</span>
               </h2>
               <div class="text-body-1 text-medium-emphasis space-y-4">
                 <p>
