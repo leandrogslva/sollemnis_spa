@@ -56,6 +56,8 @@ const navLinks = [
   { name: 'Início', href: '#home' },
   { name: 'Sobre', href: '#about' },
   { name: 'Serviços', href: '#services' },
+  { name: 'Eventos', href: '#events' },
+  { name: 'Planos', href: '#plans' },
   { name: 'Depoimentos', href: '#testimonials' },
   { name: 'Contato', href: '#contact' },
 ];
