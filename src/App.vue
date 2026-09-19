@@ -7,6 +7,8 @@
       <Hero />
       <About />
       <Services />
+      <CorpEvents />
+      <Plans />
       <Testimonials />
       <Contact />
 
@@ -23,4 +25,6 @@ import Services from './components/Services.vue';
 import Testimonials from './components/Testimonials.vue';
 import Contact from './components/Contact.vue';
 import Footer from './components/Footer.vue';
+import CorpEvents from './components/CorpEvents.vue';
+import Plans from './components/Plans.vue';
 </script>
